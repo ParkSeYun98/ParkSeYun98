@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)
 
   ### GitHub Stats
-  <hr/>
   <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
