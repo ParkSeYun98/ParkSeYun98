@@ -22,15 +22,23 @@ Here are some ideas to get you started:
   ### Hi, I'm SeYun 👋
   
   <hr />
+  <br />
   
+  #### PS
+  <hr/>
+  <br/>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/>
 
-
+  #### GitHub Laguange Ratio
+  <hr/>
+  <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)
 
-
+  #### GitHub Stats
+  <hr/>
+  <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
   
