@@ -1,4 +1,4 @@
-### Hi, I'm SeYun 👋
+
 
 
 <!--
@@ -19,24 +19,25 @@ Here are some ideas to get you started:
 
 
 <div align="center">
+  
   ### Hi, I'm SeYun 👋
   
   <hr />
   <br />
   
-  #### PS
+  ### PS
   <hr/>
   <br/>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/>
 
-  #### GitHub Laguange Ratio
+  ### GitHub Laguange Ratio
   <hr/>
   <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)
 
-  #### GitHub Stats
+  ### GitHub Stats
   <hr/>
   <br/>
 
