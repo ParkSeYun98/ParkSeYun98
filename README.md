@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/></div>
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/>
+</div>
 
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)</div>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)
+</div>
 
-<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)</div>
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
+</div>
