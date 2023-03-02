@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center">
   ### Hi, I'm SeYun 👋
   
-  </hr>
+  <hr />
   
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/>
