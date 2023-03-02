@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm SeYun 👋
 
 
 <!--
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 
-<centor>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/></centor>
+<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)</div>
