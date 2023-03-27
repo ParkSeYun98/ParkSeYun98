@@ -30,6 +30,12 @@ Here are some ideas to get you started:
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)<br/>
 
+  ### GitHub Streak
+  
+  </br>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=leverest96&theme=dark)](https://git.io/streak-stats)<br/>
+
   ### GitHub Laguange Ratio
 
   <br/>
