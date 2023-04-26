@@ -47,4 +47,9 @@ Here are some ideas to get you started:
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
   
+  <br/>
+  
+  Velog
+  https://velog.io/@yun12343
+  <br/>
 </div>
