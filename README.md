@@ -36,16 +36,18 @@ Here are some ideas to get you started:
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=leverest96&theme=dark)](https://git.io/streak-stats)<br/>
 
-  ### GitHub Laguange Ratio
+  ### Language
 
   <br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&langs_count=8)](https://github.com/ParkSeYun98/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ParkSeYun98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   ### GitHub Stats
   <br/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
   <br/>
   
