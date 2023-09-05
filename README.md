@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <div align="center">
   
   ### Hi, I'm SeYun 👋
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSeYun98&count_bg=%23F9C5EF&title_bg=%23FDA4D6&icon=&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![wakatime](https://wakatime.com/badge/user/baaaeb87-f67e-4d16-851d-e5de49dc1f3e.svg)](https://wakatime.com/@baaaeb87-f67e-4d16-851d-e5de49dc1f3e)
   
   <br />
   
@@ -41,8 +44,6 @@ Here are some ideas to get you started:
   <br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![wakatime](https://wakatime.com/badge/user/baaaeb87-f67e-4d16-851d-e5de49dc1f3e.svg)](https://wakatime.com/@baaaeb87-f67e-4d16-851d-e5de49dc1f3e)
 
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
