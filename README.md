@@ -44,7 +44,10 @@ Here are some ideas to get you started:
 
   [![wakatime](https://wakatime.com/badge/user/baaaeb87-f67e-4d16-851d-e5de49dc1f3e.svg)](https://wakatime.com/@baaaeb87-f67e-4d16-851d-e5de49dc1f3e)
 
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ParkSeYun98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
+  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ParkSeYun98)](https://github.com/anuraghazra/github-readme-stats)
 
   ### GitHub Stats
   <br/>
