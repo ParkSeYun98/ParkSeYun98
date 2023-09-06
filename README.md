@@ -26,51 +26,89 @@ Here are some ideas to get you started:
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSeYun98&count_bg=%23F9C5EF&title_bg=%23FDA4D6&icon=&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
     <!--START_SECTION:waka-->
-  ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2015%20mins-blue)
-  
-  <br /><br />
-  
-  ### PS
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2041%20mins-blue)
 
-  <br/>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yun12343)](https://solved.ac/yun12343)
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yun12343&theme=warm)
-  <br/><br />
-
-  ### GitHub Streak & Stats
-  
-  </br>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=leverest96&theme=dark)](https://git.io/streak-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  <br/><br />
-
-  ### Language
-
-  <br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkSeYun98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-56-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 620 Contributions in the Year 2023
+> 🏆 624 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                377 commits         ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌆 Daytime                456 commits         █████████░░░░░░░░░░░░░░░░   34.39 % 
+🌃 Evening                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌙 Night                  279 commits         █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Tuesday                  305 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Wednesday                243 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Thursday                 230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Friday                   188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Saturday                 63 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Sunday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Other                    8 hrs 40 mins       ███████████████░░░░░░░░░░   61.79 % 
+Python                   3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Java                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+ActionScript             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+
+🔥 Editors: 
+Chrome                   8 hrs 40 mins       ███████████████░░░░░░░░░░   61.79 % 
+PyCharm                  3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+IntelliJ                 1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+
+🐱‍💻 Projects: 
+gpttest0905              4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
+Algorithm_Java           1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+0905gpttest              1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+two_factor_authentication1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+waka-box                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+
+💻 Operating System: 
+Windows                  14 hrs 2 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     15 repos            ██████████████░░░░░░░░░░░   55.56 % 
+Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ParkSeYun98/ParkSeYun98/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2023 18:36:09 UTC
+ Last Updated on 06/09/2023 18:36:30 UTC
 <!--END_SECTION:waka-->
 
   <br/><br />
