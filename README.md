@@ -24,7 +24,6 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=leverest96&theme=dark)](https://git.io/streak-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  <br/><br />
 
   <br/><br />
   
