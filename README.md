@@ -27,7 +27,4 @@
 
   <br/><br />
   
-  Velog
-  https://velog.io/@yun12343
-  <br/><br />
 </div>
