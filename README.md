@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hi, I'm SeYun 👋
+### Hi, I'm SeYun 👋
 
 <br /><br /><br />
 
