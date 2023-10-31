@@ -1,16 +1,99 @@
-<div align="center">
+## Hi, I'm SeYun 👋
+### I want to be Backend Developer!
+
+<br><br><br>
+
+## CAREERS
+|ORGANIZATION|PERIOD|DESCRIPTION|
+|:---:|:---:|:---:|
+|Samsung Software Academy For Youth (SSAFY)|2023.01 ~ |9th|
+|Kwangwoon Univ|2017.09 ~ 2023.02|Major in Electronics & Communication Engineering|
+
+<br/>
+
+## SKILLS & TOOLS
+
+- 제가 사용하는 SKILLS 중 가장 자신 있는 기술들을 '상' 기준으로 두었습니다. 절대적인 실력이 아닙니다..!
+
+### MAIN
+<div class="Main-Language">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+</div>
+<div class="Main-Spring">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/Spring Boot-06AC38?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/JPA-004027?style=for-the-badge&logo=JPA&logoColor=white">
+</div>
+<div class="Main-DB">
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=MYSQL&logoColor=white">
+</div>
+
+<br>
+
+### INTERMEDIATE
+
+<div class="Intermediate-Infra">
   
-### Hi, I'm SeYun 👋
+</div>
 
-<br /><br /><br />
+<br>
 
+### BASIC
+
+<br>
+
+### TOOLS
+<div class="Tools-IDE">
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+</div>
+<div class="Tools-">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"><img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
+</div>
+<div class="Tools-Git">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
+</div>
+<div class="Tools-AWS">
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"><img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"><img src="https://img.shields.io/badge/AWS Route 53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
+</div>
+
+<br/>
+
+## PROJECTS
+|TITLE|PERIOD|DESCRIPTION|ROLE|
+|:---:|:---:|:---:|:---:|
+|<a href="https://github.com/LingoTown">Lingo Town</a>|2023.10. ~ 2023.11.|AI와 대화하는 메타버스 언어마을|FE/3D구현|
+|||||
+|||||
+|||||
+
+<br/>
+
+* SSAFY(삼성SW아카데미)에서 진행한 프로젝트의 경우 클릭 시 비공개일 수 있습니다.
+
+<br/>
+
+### AWARDS & CERTIFICATES
+|TITLE|DATE|Institution|DESCRIPTION|
+|:---:|:---:|:---:|:---:|
+|||||
+
+<br/>
+
+## Contact
+- Email : yun12343@naver.com<br/>
+- GitHub : https://github.com/ParkSeYun98<br/>
+- Blog : https://velog.io/@yun12343<br/>
+- BaekJoon : https://www.acmicpc.net/user/yun12343<br/>
+
+
+<br><br><br>
+
+<div align="center">
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkSeYun98&count_bg=%23F9C5EF&title_bg=%23FDA4D6&icon=&icon_color=%23FFFFFF&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
     
 ![Code Time](http://img.shields.io/badge/Code%20Time-430%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
 
-### PS
+## PS
 
   <br/>
 
@@ -18,7 +101,7 @@
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=yun12343&theme=warm)
   <br/><br />
 
-  ### GitHub Streak & Stats
+  ## GitHub Streak & Stats
 
   </br>
 
