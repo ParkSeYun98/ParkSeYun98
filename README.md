@@ -1,13 +1,37 @@
 ## Hi, I'm SeYun 👋
+
 ### I want to be Backend Developer!
 
 <br><br><br>
 
 ## CAREERS
+
 |ORGANIZATION|PERIOD|DESCRIPTION|
 |:---:|:---:|:---:|
 |Samsung Software Academy For Youth (SSAFY)|2023.01 ~ |9th|
 |Kwangwoon Univ|2017.09 ~ 2023.02|Major in Electronics & Communication Engineering|
+
+<br/>
+
+## PROJECTS
+|TITLE|PERIOD|DESCRIPTION|ROLE|
+|:---:|:---:|:---:|:---:|
+|<a href="https://github.com/LingoTown">Lingo Town</a>|2023.10. ~ 2023.11.|AI와 대화하는 메타버스 언어마을|FE/3D구현|
+|DailyLab||||
+|HowDoILook||||
+|TheSecondLife||||
+|SSACCER||||
+
+<br/>
+
+* SSAFY(삼성SW아카데미)에서 진행한 프로젝트의 경우 클릭 시 비공개일 수 있습니다.
+
+<br/>
+
+### AWARDS & CERTIFICATES
+|TITLE|DATE|Institution|DESCRIPTION|
+|:---:|:---:|:---:|:---:|
+|||||
 
 <br/>
 
@@ -53,27 +77,6 @@
 <div class="Tools-AWS">
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"><img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"><img src="https://img.shields.io/badge/AWS Route 53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
 </div>
-
-<br/>
-
-## PROJECTS
-|TITLE|PERIOD|DESCRIPTION|ROLE|
-|:---:|:---:|:---:|:---:|
-|<a href="https://github.com/LingoTown">Lingo Town</a>|2023.10. ~ 2023.11.|AI와 대화하는 메타버스 언어마을|FE/3D구현|
-|||||
-|||||
-|||||
-
-<br/>
-
-* SSAFY(삼성SW아카데미)에서 진행한 프로젝트의 경우 클릭 시 비공개일 수 있습니다.
-
-<br/>
-
-### AWARDS & CERTIFICATES
-|TITLE|DATE|Institution|DESCRIPTION|
-|:---:|:---:|:---:|:---:|
-|||||
 
 <br/>
 
