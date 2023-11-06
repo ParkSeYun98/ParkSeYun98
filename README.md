@@ -16,11 +16,11 @@
 ## PROJECTS
 |TITLE|PERIOD|DESCRIPTION|ROLE|
 |:---:|:---:|:---:|:---:|
-|<a href="https://github.com/LingoTown">Lingo Town</a>|2023.10. ~ 2023.11.|AI와 대화하는 메타버스 언어마을|FE/3D구현|
-|DailyLab||||
-|HowDoILook||||
-|TheSecondLife||||
-|SSACCER||||
+|<a href="https://github.com/LingoTown">Lingo Town</a>|2023.10. ~ 2023.11.|AI와 대화하는 메타버스 언어마을|Infra/BE/FE|
+|<a href="https://github.com/ParkSeYun98/DailyLab">DailyLab</a>|23.08.28 ~ 23.10.06|개인 맞춤 Todo 추천 & 기록 서비스|BE/Infra|
+|<a href="https://github.com/ParkSeYun98/HowDoILook">HowDoILook</a>|23.07.04 ~ 23.08.18|실시간 스트리밍을 활용한 패션 조언 및 온라인 옷장 관리 서비스|BE/Infra/FE|
+|<a href="https://github.com/ParkSeYun98/TheSecondLifeBack">TheSecondLife</a>|23.06.12 ~ 23.07.02|시니어를 위한 멀티 플랫폼|BE|
+|<a href="https://github.com/ParkSeYun98/SSACCER-BE">SSACCER</a>|23.05.18 ~ 23.05.26|영상 플랫폼 및 각종 운동 API와 데이터를 활용한 종합 풋살/축구 서비스|BE/FE|
 
 <br/>
 
@@ -31,11 +31,12 @@
 ### AWARDS & CERTIFICATES
 |TITLE|DATE|Institution|DESCRIPTION|
 |:---:|:---:|:---:|:---:|
-|||||
+|1학기 우수 프로젝트상|23.05.26|삼성SW아카데미(SSAFY)||
+|TOEIC SPEAKING|23.09.02|YBM|Intermediate High(IH, 140점)|
 
 <br/>
 
-## SKILLS & TOOLS
+## SKILLS & TOOLS (작성중)
 
 - 제가 사용하는 SKILLS 중 가장 자신 있는 기술들을 '상' 기준으로 두었습니다. 절대적인 실력이 아닙니다..!
 
