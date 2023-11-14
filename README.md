@@ -120,6 +120,9 @@
 <div class="Tools-AWS">
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"><img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"><img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"><img src="https://img.shields.io/badge/AWS Route 53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white">
 </div>
+<div class="API Tools">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
+</div>
 <div class="Terminal">
   <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=Termius&logoColor=white"><img src="https://img.shields.io/badge/MobaXterm-000000?style=for-the-badge&logo=MobaXterm&logoColor=white">
 </div>
