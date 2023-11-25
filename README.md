@@ -17,7 +17,7 @@
 |TITLE|PERIOD|DESCRIPTION|ROLE|
 |:---:|:---:|:---:|:---:|
 |<a href="https://github.com/LingoTown">Lingo Town</a>|2023.10. ~ 2023.11.|AI와 대화하는 메타버스 언어마을|Infra/BE/FE|
-|<a href="https://github.com/ParkSeYun98/DailyLab">DailyLab</a>|23.08.28 ~ 23.10.06|개인 맞춤 Todo 추천 & 기록 서비스|BE/Infra|
+|<a href="https://github.com/ParkSeYun98/DailyLab">DailyLab</a>|23.08.28 ~ 23.10.06|개인 맞춤 Todo 추천 & Todo 및 감정 기록 서비스|BE/Infra|
 |<a href="https://github.com/ParkSeYun98/HowDoILook">HowDoILook</a>|23.07.04 ~ 23.08.18|실시간 스트리밍을 활용한 패션 조언 및 온라인 옷장 관리 서비스|BE/Infra/FE|
 |<a href="https://github.com/ParkSeYun98/TheSecondLifeBack">TheSecondLife</a>|23.06.12 ~ 23.07.02|시니어를 위한 멀티 플랫폼|BE|
 |<a href="https://github.com/ParkSeYun98/SSACCER-BE">SSACCER</a>|23.05.18 ~ 23.05.26|영상 플랫폼 및 각종 운동 API와 데이터를 활용한 종합 풋살/축구 서비스|BE/FE|
