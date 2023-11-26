@@ -34,7 +34,7 @@
 
 ## SKILLS & TOOLS
 
-- 제가 사용하는 SKILLS 중 가장 자신 있는 기술들을 '상' 기준으로 두었습니다. 절대적인 실력이 아닙니다..!
+- 제가 사용하는 SKILLS 중 가장 자신 있는 기술들을 'MAIN' 기준으로 두었습니다. 절대적인 실력이 아닙니다..!
 
 ### MAIN
 <div class="Main-Language">
