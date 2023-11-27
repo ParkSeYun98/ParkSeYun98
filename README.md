@@ -16,7 +16,7 @@
 ## PROJECTS
 |TITLE|PERIOD|DESCRIPTION|ROLE|
 |:---:|:---:|:---:|:---:|
-|<a href="https://github.com/LingoTown">LingoTown</a>|2023.10.09 ~ 2023.11.17|AI와 대화하는 메타버스 언어마을|Infra/BE/FE|
+|<a href="https://github.com/LingoTown">LingoTown</a>|23.10.09 ~ 23.11.17|AI와 대화하는 메타버스 언어마을|Infra/BE/FE|
 |<a href="https://github.com/ParkSeYun98/DailyLab">DailyLab</a>|23.08.28 ~ 23.10.06|개인 맞춤 Todo 추천 & Todo 및 감정 기록 서비스|BE/Infra|
 |<a href="https://github.com/ParkSeYun98/HowDoILook">HowDoILook</a>|23.07.04 ~ 23.08.18|실시간 스트리밍을 활용한 패션 조언 및 온라인 옷장 관리 서비스|BE/Infra/FE|
 |<a href="https://github.com/ParkSeYun98/TheSecondLifeBack">TheSecondLife</a>|23.06.12 ~ 23.07.02|시니어를 위한 멀티 플랫폼|BE|
@@ -34,7 +34,7 @@
 ### AWARDS
 |TITLE|DATE|INSTITUTION|DESCRIPTION|
 |:---:|:---:|:---:|:---:|
-|2학기 자율 프로젝트 우수 상|2023.11.17|삼성청년SW아카데미||
+|2학기 자율 프로젝트 우수 상|23.11.17|삼성청년SW아카데미||
 |1학기 우수 프로젝트상|23.05.26|삼성청년SW아카데미(SSAFY)||
 
 <br/>
