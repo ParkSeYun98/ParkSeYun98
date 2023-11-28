@@ -34,8 +34,8 @@
 ### AWARDS
 |TITLE|DATE|INSTITUTION|DESCRIPTION|
 |:---:|:---:|:---:|:---:|
-|2학기 자율 프로젝트 우수 상|23.11.17|삼성청년SW아카데미(SSAFY)||
-|1학기 우수 프로젝트상|23.05.26|삼성청년SW아카데미(SSAFY)||
+|<a href="https://github.com/LingoTown">2학기 자율 프로젝트 우수 상</a>|23.11.17|삼성청년SW아카데미(SSAFY)||
+|<a href="https://github.com/ParkSeYun98/SSACCER-BE">1학기 우수 프로젝트상</a>|23.05.26|삼성청년SW아카데미(SSAFY)||
 
 <br/>
 
