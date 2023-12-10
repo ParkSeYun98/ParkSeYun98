@@ -2,7 +2,10 @@
 
 ### I want to be Backend Developer!
 
-<br><br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun12343)](https://solved.ac/yun12343/) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
+
+<br>
 
 ## CAREERS
 
@@ -135,14 +138,6 @@
 <div class="Terminal">
   <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=Termius&logoColor=white"><img src="https://img.shields.io/badge/MobaXterm-000000?style=for-the-badge&logo=MobaXterm&logoColor=white">
 </div>
-
-<br/>
-
-## Etc
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun12343)](https://solved.ac/yun12343/) 
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
 
 <br/>
 
