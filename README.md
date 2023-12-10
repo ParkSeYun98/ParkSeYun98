@@ -138,10 +138,19 @@
 
 <br/>
 
+## Etc
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yun12343)](https://solved.ac/yun12343/) 
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkSeYun98&show_icons=true&theme=tokyonight)
+
+<br/>
+
 ## Contact
 - Email : yun12343@naver.com<br/>
 - GitHub : https://github.com/ParkSeYun98<br/>
-- Blog : https://velog.io/@yun12343<br/>
+- Blog(이전, Velog) : https://velog.io/@yun12343<br/>
+- Blog(최근 개설, Tistory) : https://developisntcool.tistory.com/
 - BaekJoon : https://www.acmicpc.net/user/yun12343<br/>
   
 </div>
