@@ -11,7 +11,7 @@
 
 |ORGANIZATION|PERIOD|DESCRIPTION|
 |:---:|:---:|:---:|
-|Samsung Software Academy For Youth (SSAFY)|2023.01 ~ |9th|
+|Samsung Software Academy For Youth (SSAFY)|2023.01 ~ 2023.12|9th|
 |Kwangwoon Univ|2017.09 ~ 2023.02|Major in Electronics & Communication Engineering|
 
 <br/>
