@@ -126,7 +126,7 @@
 ## Contact
 - Email : yun12343@naver.com<br/>
 - GitHub : https://github.com/ParkSeYun98<br/>
-- Blog(최근 개설, Tistory) : https://developisntcool.tistory.com/
+- Blog : https://developisntcool.tistory.com/
 - BaekJoon : [https://www.acmicpc.net/user/yun12343](https://www.acmicpc.net/user/yun12343)<br/>
   
 </div>
