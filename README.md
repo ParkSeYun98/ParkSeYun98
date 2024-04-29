@@ -28,9 +28,10 @@
 <br/>
 
 ### CERTIFICATIONS
-|TITLE|DATE|INSTITUTION|DESCRIPTION|
-|:---:|:---:|:---:|:---:|
-|TOEIC SPEAKING|23.09.02|YBM|Intermediate High(IH, 140점)|
+|TITLE|DATE|DESCRIPTION|
+|:---:|:---:|:---:|
+|TOEIC SPEAKING|23.09.02|Intermediate High(IH, 140점)|
+|SQLD|24.04.05|-|
 
 <br/>
 
